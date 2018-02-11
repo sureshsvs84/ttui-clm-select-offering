@@ -1,0 +1,17 @@
+{
+  "name": "clm-fxl-select-offering",  
+  "version": "0.0.01",
+  "ignore": [
+    "src"
+  ],
+  "dependencies": {
+    "angular": "1.4.9",
+    "angular-sanitize": "1.4.9",
+    "angular-schema-form": "0.8.12",
+    "angular-bootstrap": "~0.13.4"
+   
+  },
+  "resolutions": {
+    "angular": "1.4.9"
+  }
+}

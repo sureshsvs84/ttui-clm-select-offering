@@ -1,0 +1,22 @@
+{
+  "name": "clm-fxl-select-offering",
+  "version": "0.0.01",
+  "description": "Test Package only, later will replace it with our company repo stuff",
+  "scripts": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "1.1.0",
+    "grunt-contrib-copy": "1.0.0",
+    "grunt-processhtml": "0.4.1",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-sass": "2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sureshsvs84/ttui-clm-select-offering.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sureshsvs84/ttui-clm-select-offering/issues"
+  },
+  "homepage": "https://github.com/sureshsvs84/ttui-clm-select-offering#readme"
+}
